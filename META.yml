@@ -4,7 +4,6 @@ author:
   - 'Chris Williams <chris@bingosnet.co.uk>'
 build_requires:
   Capture::Tiny: 0.05
-  Env::Sanctify: 1.02
   ExtUtils::MakeMaker: 6.42
   Test::More: 0.47
 configure_requires:
@@ -26,4 +25,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/bingos/module-install-noautomatedtesting.git
-version: 0.04
+version: 0.06
